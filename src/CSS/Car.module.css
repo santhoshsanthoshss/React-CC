@@ -1,0 +1,12 @@
+.br {
+  border: 4px solid blue;
+}
+.cars {
+  font-size: 40px;
+}
+.hole_car {
+  margin-left: 20%;
+}
+.Car_img {
+  border-radius: 10px;
+}

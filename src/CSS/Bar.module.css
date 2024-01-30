@@ -1,0 +1,62 @@
+.navabar_main {
+  /* margin-left: 40px; */
+  padding: 30px;
+  background-color: crimson;
+
+  display: flex;
+  align-items: center;
+
+  justify-content: space-evenly;
+}
+
+.hyper_main {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+.navabar_main1 {
+  /* margin-left: 40px; */
+  padding: 30px;
+  background-color: blue;
+  margin-top: 20px;
+
+  display: flex;
+  align-items: center;
+
+  justify-content: space-evenly;
+}
+
+.hyper_main1 {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.imagewidth img {
+  border: 3px solid blue;
+  width: 496px;
+  height: 400px;
+}
+
+.cards1 {
+  border: 3px solid blue;
+  margin-left: 20px;
+  width: 200px;
+  height: 300px;
+}
+.cards1 img {
+  width: 100%;
+  height: 100%;
+}
+.cards1 h1 {
+  font-size: 20px;
+  text-decoration: none;
+}
+.cards1 h2 {
+  text-transform: none;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,52 @@
+.cards-details {
+  /* border: 1px solid red; */
+  width: 270px;
+  height: 457px;
+  margin: 40px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 10px;
+}
+
+.ronaldoimg {
+  width: 270px;
+  height: 260px;
+  margin-bottom: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+.fa-play-circle {
+  color: orangered;
+  font-size: 29px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.fa-chevron-circle-down {
+  color: blue;
+  font-size: 29px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.btnread {
+  margin-left: 10px;
+}
+.readpara {
+  text-align: center;
+  font-size: 14px;
+  position: relative;
+  bottom: 40px;
+  margin-left: 43px;
+  font-style: italic;
+  padding-left: 3px;
+  padding-right: 8px;
+}
+
+.userinfo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px;
+}
